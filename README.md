@@ -24,11 +24,12 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![EclipseIDE](https://img.shields.io/badge/EclipseIDE-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
-
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white)
 
 </div>
