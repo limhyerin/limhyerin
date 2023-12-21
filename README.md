@@ -30,7 +30,5 @@
 ![VMware](https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/KaliLinux-557C94.svg?&style=for-the-badge&logo=KaliLinux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=limhyerin&theme=flat&column=7)](https://github.com/dkssud8150/)
 
 </div>
