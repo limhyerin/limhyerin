@@ -1,14 +1,6 @@
 # 🖐 LIM HYERIN 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimhyerin&count_bg=%23DFD5E7&title_bg=%23F7F5F5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=limhyerin&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhyerin)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rin091345)](https://solved.ac/rin091345)
-
 ## 🤍Stack🤍
 
 ![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
