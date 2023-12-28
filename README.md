@@ -50,6 +50,7 @@
 
 ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhyerin&show_icons=true&theme=radical)
 ![Hyerin's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rin091345)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={rin091345})](https://solved.ac/{rin091345})
 
 
 </div>
