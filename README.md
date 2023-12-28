@@ -50,7 +50,6 @@
 ![KaliLinux](https://img.shields.io/badge/KaliLinux-557C94.svg?&style=for-the-badge&logo=KaliLinux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhyerin&show_icons=true&theme=radical)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limhyerin&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyerin&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
