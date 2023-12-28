@@ -49,6 +49,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhyerin&show_icons=true&theme=radical)
+![Hyerin's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rin091345)
 
 
 </div>
