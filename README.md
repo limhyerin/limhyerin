@@ -1,4 +1,4 @@
-# 🖐 LIM HYERIN 
+# 🖐 HYERIN LIM
 <div align="center">
 
 ## 🤍Stack🤍
