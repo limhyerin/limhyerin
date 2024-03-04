@@ -1,4 +1,4 @@
-# 🖐 LIM HYERIN 
+ㅌ# 🖐 LIM HYERIN 
 <div align="center">
 
 ## 🤍Stack🤍
@@ -23,6 +23,7 @@
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
 </div>
 
 ### 배울 예정
@@ -34,7 +35,6 @@
 
 <div>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
 </div>
 
 ## 🤍Tools🤍
